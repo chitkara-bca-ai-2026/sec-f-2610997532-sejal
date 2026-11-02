@@ -1,0 +1,13 @@
+Lab Reflection:
+
+1. Approach:
+
+Used a "while True" loop to create a menu-driven Inventory Control System. Used "if/elif/else" statements to perform the selected operation: view inventory, add an item, remove an item, sort the inventory, or exit the program. Used list methods such as "append()", "remove()", and "sort()" to manage the products.
+
+2. Challenges Faced:
+
+- Challenge 1: Repeating the menu after each operation.
+  Fix: Used a "while True" loop so the menu appears again until the user selects Exit.
+
+- Challenge 2: Removing an item that may not be present in the inventory.
+  Fix: Used the "in" operator to check whether the item exists before using "remove()". Displayed an error message if it was not found.

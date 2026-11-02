@@ -1,0 +1,19 @@
+Challenges Faced While Writing Python Code
+
+1. Challenges Faced:
+
+- I faced difficulty in typing brackets and commas correctly.
+- Understanding tuples and sets was a little difficult.
+- I had to be careful with indentation.
+- Writing the while loop and if-else conditions was challenging.
+- Understanding set operations was difficult.
+
+2. Errors Faced:
+
+- Sometimes I made spelling and syntax mistakes.
+- I corrected indentation and missing brackets.
+- I tested the code to fix errors.
+
+3. Conclusion:
+
+I learned how to use lists, tuples, sets, loops, and conditions in Python. This program improved my coding and problem-solving skills.

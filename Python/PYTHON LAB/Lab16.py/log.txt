@@ -1,0 +1,20 @@
+Challenges Faced While Writing Calculator Code
+
+1. Challenges Faced:
+
+- Understanding how to create functions was a little difficult.
+- I faced difficulty in using return statements.
+- Writing if-elif conditions correctly was challenging.
+- I had to be careful with indentation.
+- Handling division by zero was confusing.
+- Creating a calculation history was also challenging.
+
+2. Errors Faced:
+
+- I made some spelling and syntax mistakes.
+- I corrected indentation and variable names.
+- I tested the operations to check the output.
+
+3. Conclusion:
+
+I learned how to use functions, loops, conditions, and return statements in Python. This program improved my coding skills.

@@ -1,0 +1,20 @@
+Challenges Faced While Writing Student Information Management System
+
+1. Challenges Faced:
+
+- Understanding dictionaries and nested dictionaries was difficult.
+- Creating functions for different operations was challenging.
+- I faced difficulty in adding and updating student records.
+- Calculating total and average marks needed attention.
+- Using if-else conditions and loops correctly was challenging.
+- Deleting and searching student records was a little difficult.
+
+2. Errors Faced:
+
+- I made some spelling and indentation mistakes.
+- I corrected variable names and conditions.
+- I tested each option to fix errors.
+
+3. Conclusion:
+
+I learned how to use dictionaries, lists, functions, loops, and conditions in Python. This program improved my programming and problem-solving skills.
